@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Archiver
+
+**Embryo Archiver** is Embryo-Zero's fork of [heritrix3](https://github.com/internetarchive/heritrix3), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 # Heritrix
 [![Maven Central Version](https://img.shields.io/maven-central/v/org.archive/heritrix)](https://img.shields.io/maven-central/v/org.archive/heritrix)
 [![Docker](https://img.shields.io/docker/v/iipc/heritrix/latest?label=docker)](https://hub.docker.com/r/iipc/heritrix)
